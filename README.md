@@ -54,6 +54,7 @@ In this work, a customized MATLAB-based spectroscopic ellipsometry fitting progr
 
 ## 📂 Repository Structure
 
+```text
 .
 ├── Thesis/
 │   └── Sb2S3_Thin_Film_Thesis.pdf
@@ -73,6 +74,7 @@ In this work, a customized MATLAB-based spectroscopic ellipsometry fitting progr
 │   └── Publication_figures/
 │
 └── README.md
+```
 
 ---
 
