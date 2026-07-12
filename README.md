@@ -92,7 +92,7 @@ These results provide optical material parameters and analysis methods for futur
 
 **Sheng-Xun Su (蘇聖勛)**
 
-M.S. in Electro-Optical Engineering  
+M.S. in Optics and Photonics  
 National Central University, Taiwan
 
 Research Interests:
