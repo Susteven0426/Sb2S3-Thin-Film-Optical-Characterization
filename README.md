@@ -56,19 +56,23 @@ In this work, a customized MATLAB-based spectroscopic ellipsometry fitting progr
 
 .
 ├── Thesis/
-│ └── Master's thesis PDF
+│   └── Sb2S3_Thin_Film_Thesis.pdf
 │
 ├── MATLAB_Code/
-│ └── Ellipsometry fitting program
+│   ├── Ellipsometry_Fitting/
+│   ├── Tauc_Plot/
+│   └── Optical_Constant_Extraction/
 │
 ├── Data/
-│ ├── Spectroscopic ellipsometry
-│ ├── Transmittance
-│ ├── GIXRD
-│ └── Photoluminescence
+│   ├── Ellipsometry/
+│   ├── Transmittance/
+│   ├── GIXRD/
+│   └── PL/
+│
+├── Figures/
+│   └── Publication_figures/
 │
 └── README.md
-
 
 ---
 
