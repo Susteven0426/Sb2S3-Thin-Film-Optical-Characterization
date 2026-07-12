@@ -84,7 +84,7 @@ These results provide optical material parameters and analysis methods for futur
 
 Full Master's thesis:
 
-[Download Thesis PDF](./Thesis/Sb2S3_Optical_Thin_Film_Thesis.pdf)
+
 
 ---
 
