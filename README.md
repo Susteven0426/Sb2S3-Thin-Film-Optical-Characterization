@@ -6,6 +6,14 @@ This work focuses on the fabrication and optical characterization of antimony su
 
 ---
 
+## 📄 Thesis
+
+Full Master's thesis:
+
+[Download Thesis PDF](./Thesis/Sb2S3_Optical_Thin_Film_Thesis.pdf)
+
+---
+
 ## 📖 Research Overview
 
 Sb₂S₃ is a high-refractive-index chalcogenide material with potential applications in photonic devices, including optical components and reconfigurable photonic systems.
@@ -77,14 +85,6 @@ These results provide optical material parameters and analysis methods for futur
 - Thin Film Characterization
 - GIXRD Analysis
 - Photoluminescence (PL) Analysis
-
----
-
-## 📄 Thesis
-
-Full Master's thesis:
-
-[Download Thesis PDF](./Thesis/Sb2S3_Optical_Thin_Film_Thesis.pdf)
 
 ---
 
