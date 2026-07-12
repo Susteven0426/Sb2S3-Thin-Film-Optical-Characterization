@@ -1,16 +1,18 @@
 # High-Refractive-Index Low-Loss Sb₂S₃ Optical Thin Films Grown by Chemical Bath Deposition
 
-This repository contains the research data and MATLAB analysis codes for my Master's thesis in the Department of Optics and Photonics, National Central University.
+This repository contains the research data, MATLAB analysis programs, and thesis document from my Master's research in the Department of Optics and Photonics, National Central University.
 
-This research focuses on the fabrication and optical characterization of antimony sulfide (Sb₂S₃) thin films using a low-cost Chemical Bath Deposition (CBD) process. The main objective is to establish reliable optical constant extraction methods for photonic applications through spectroscopic ellipsometry analysis.
+This work focuses on the fabrication and optical characterization of antimony sulfide (Sb₂S₃) thin films using Chemical Bath Deposition (CBD), with an emphasis on optical constant extraction, ellipsometry modeling, and photonic material characterization.
 
 ---
 
 ## 📖 Research Overview
 
-Sb₂S₃ is a high-refractive-index chalcogenide material with potential applications in photonic devices. However, complete optical constant databases, including refractive index (n) and extinction coefficient (k) dispersion, remain limited for CBD-grown Sb₂S₃ thin films.
+Sb₂S₃ is a high-refractive-index chalcogenide material with potential applications in photonic devices, including optical components and reconfigurable photonic systems.
 
-In this work, a customized MATLAB-based spectroscopic ellipsometry fitting program was developed based on the Tauc–Lorentz model. A normalized Mean Square Error (MSE) algorithm was introduced to improve the balance between Ψ and Δ fitting accuracy and enhance the reliability of extracted optical parameters.
+However, accurate optical constant data, including refractive index (n) and extinction coefficient (k) dispersion, are essential for photonic device design but remain limited for CBD-grown Sb₂S₃ thin films.
+
+In this research, a customized MATLAB-based spectroscopic ellipsometry fitting program was developed using the Tauc–Lorentz model to extract reliable optical parameters. A normalized Mean Square Error (MSE) algorithm was introduced to improve the fitting balance between ellipsometric parameters Ψ and Δ.
 
 ---
 
@@ -19,22 +21,22 @@ In this work, a customized MATLAB-based spectroscopic ellipsometry fitting progr
 ### Thin Film Fabrication
 
 - Developed a low-temperature Chemical Bath Deposition (CBD) process for Sb₂S₃ thin films.
-- Optimized deposition conditions with substrate pretreatment.
-- Successfully fabricated smooth optical-grade amorphous Sb₂S₃ thin films.
+- Optimized deposition conditions to obtain smooth and uniform optical-grade amorphous Sb₂S₃ films.
+- Investigated thermal annealing effects on structural and optical properties.
 
 ### Optical Characterization & Modeling
 
-- Developed a MATLAB-based ellipsometry fitting program.
-- Implemented a normalized MSE algorithm to reduce the weighting imbalance between Ψ and Δ.
-- Extracted important optical parameters:
+- Developed MATLAB-based spectroscopic ellipsometry fitting algorithms.
+- Implemented normalized MSE weighting to improve fitting reliability between Ψ and Δ.
+- Extracted optical parameters including:
   - Refractive index (n)
   - Extinction coefficient (k)
   - Optical bandgap
 
-### Phase Change Analysis
+### Phase Transformation Analysis
 
-- Investigated the optical and structural transformation of Sb₂S₃ films during thermal annealing.
-- Analyzed amorphous-to-crystalline phase transition using optical and structural characterization techniques.
+- Studied amorphous-to-crystalline phase transition behavior after thermal annealing.
+- Correlated optical property changes with structural evolution using multiple characterization techniques.
 
 ---
 
@@ -47,8 +49,10 @@ In this work, a customized MATLAB-based spectroscopic ellipsometry fitting progr
   - Amorphous Sb₂S₃: approximately 2.09–2.15 eV
   - Crystalline Sb₂S₃: approximately 1.44 eV
 
-- Annealing-induced crystallization:
-  - Crystallinity reached approximately 93.77% at 300°C.
+- Crystallization behavior:
+  - Annealing at 300°C achieved approximately 93.77% crystallinity.
+
+These results provide optical material parameters and analysis methods for future photonic device applications.
 
 ---
 
@@ -56,9 +60,9 @@ In this work, a customized MATLAB-based spectroscopic ellipsometry fitting progr
 
 | Folder/File | Description |
 |------------|-------------|
-| `Thesis/` | Master's thesis PDF |
+| `Thesis/` | Master's thesis document |
 | `MATLAB_Code/` | MATLAB programs for ellipsometry fitting and optical constant extraction |
-| `Data/` | Experimental data including spectroscopic ellipsometry, transmittance, GIXRD, and PL measurements |
+| `Data/` | Experimental measurement data including ellipsometry, transmittance, GIXRD, and PL |
 | `Figures/` | Research figures and analysis results |
 | `README.md` | Project overview |
 
@@ -69,10 +73,18 @@ In this work, a customized MATLAB-based spectroscopic ellipsometry fitting progr
 - MATLAB
 - Spectroscopic Ellipsometry Analysis
 - Tauc–Lorentz Optical Model
-- Thin Film Optical Characterization
 - Optical Constant Extraction
+- Thin Film Characterization
 - GIXRD Analysis
-- Photoluminescence (PL) Measurement
+- Photoluminescence (PL) Analysis
+
+---
+
+## 📄 Thesis
+
+Full Master's thesis:
+
+[Download Thesis PDF](./Thesis/Sb2S3_Optical_Thin_Film_Thesis.pdf)
 
 ---
 
@@ -83,6 +95,6 @@ In this work, a customized MATLAB-based spectroscopic ellipsometry fitting progr
 M.S. in Electro-Optical Engineering  
 National Central University, Taiwan
 
-Research Interest:
+Research Interests:
 
-**Silicon Photonics | Photonic Materials | Optical Thin Film Characterization**
+**Silicon Photonics | Photonic Materials | Optical Characterization**
