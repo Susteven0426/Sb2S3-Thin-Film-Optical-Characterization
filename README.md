@@ -95,3 +95,11 @@ National Central University, Taiwan
 Research Interests:
 
 **Photonic Materials | Optical Characterization | Silicon Photonics Applications**
+
+---
+
+# Contact
+
+📧 Email: [sususteven5245@gmail.com]
+
+🔗 LinkedIn: [[Sheng-Xun Su](https://www.linkedin.com/in/sheng-xun-su-55b49634b/)]
