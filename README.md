@@ -96,4 +96,4 @@ National Central University, Taiwan
 
 Research Interests:
 
-**Silicon Photonics | Photonic Materials | Optical Characterization**
+**Photonic Materials | Optical Characterization | Silicon Photonics Applications**
