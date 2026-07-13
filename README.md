@@ -69,8 +69,6 @@ These results provide optical material parameters and analysis methods for futur
 |------------|-------------|
 | `Thesis/` | Master's thesis document |
 | `MATLAB_Code/` | MATLAB programs for ellipsometry fitting and optical constant extraction |
-| `Data/` | Experimental measurement data including ellipsometry, transmittance, GIXRD, and PL |
-| `Figures/` | Research figures and analysis results |
 | `README.md` | Project overview |
 
 ---
