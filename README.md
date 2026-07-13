@@ -10,7 +10,7 @@ This work focuses on the fabrication and optical characterization of antimony su
 
 Full Master's thesis:
 
-[Download Thesis PDF](./Thesis/Sb2S3_Optical_Thin_Film_Thesis.pdf)
+[Sb2S3_Optical_Thin_Film_Thesis.pdf](./Thesis/Sb2S3_Optical_Thin_Film_Thesis.pdf)
 
 ---
 
