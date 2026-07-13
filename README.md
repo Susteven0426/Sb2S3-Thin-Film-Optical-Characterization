@@ -41,10 +41,9 @@ In this research, a customized MATLAB-based spectroscopic ellipsometry fitting p
   - Extinction coefficient (k)
   - Optical bandgap
 
-### Phase Transformation Analysis
-
-- Studied amorphous-to-crystalline phase transition behavior after thermal annealing.
-- Correlated optical property changes with structural evolution using multiple characterization techniques.
+### Thermal Annealing Effect Analysis
+- Investigated annealing-induced changes in the optical properties of Sb₂S₃ thin films.
+- Correlated variations in optical constants and bandgap with material evolution after annealing.
 
 ---
 
