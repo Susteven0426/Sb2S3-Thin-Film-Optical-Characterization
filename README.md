@@ -66,10 +66,10 @@ These results provide optical material parameters and analysis methods for futur
 ## 📂 Repository Contents
 
 | Folder/File | Description |
-|------------|-------------|
-| `Thesis/` | Master's thesis document |
-| `MATLAB_Code/` | MATLAB programs for ellipsometry fitting and optical constant extraction |
-| `README.md` | Project overview |
+|---|---|
+| [Thesis/](./Thesis/) | Master's thesis document |
+| [MATLAB_Code/](./MATLAB_Code/) | MATLAB scripts for ellipsometry fitting and optical constant extraction |
+| [README.md](./README.md) | Project overview |
 
 ---
 
