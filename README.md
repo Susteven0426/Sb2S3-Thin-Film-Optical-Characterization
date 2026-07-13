@@ -96,8 +96,6 @@ Research Interests:
 
 **Photonic Materials | Optical Characterization | Silicon Photonics Applications**
 
----
-
 # Contact
 
 📧 Email: [sususteven5245@gmail.com]
